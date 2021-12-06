@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biodata</title>
+    <link rel="stylesheet" href="stylecssmid.css">
+</head>
+<body class="biodata">
+    <div style="background-image: url('back-green.jpg');">
+     <center>
+    <h2 class="biodata_1">BIODATA DIRI<br>
+        Mahasiswa Universitas Advent Indonesia<br>
+        <img src="myFoto.jfif" alt="Foto Emma" width="180px" height="220px">
+    </center>
+    </h2>
+    <div style="background-image: url('back-green.jpg');">
+     <p class="biodata_2">
+        Nama          : Septiwanti Nenotek<br>
+        Nim           : 1982017<br>
+        Jurusan       : Sistem Informasi<br>
+        TTL           : Oekero, 01 September 2000<br>
+        Jenis Kelamin : Perempuan<br>
+        Agama         : Kristen <br>
+        Alamat        : Jl Oekero, Desa Pathau, Kec.Amabi Oefeto Timur, Kab.Kupang, Prov.Nusa Tenggara Timur<br>
+        Status perkawinan : Belum menikah<br>
+        Pekerjaan         : Pelajar<br>
+        Golongan darah    : -<br>
+        Kewarganegaraan   : Indonesia
+    </p>
+</body>
+</html>

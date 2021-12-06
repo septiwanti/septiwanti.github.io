@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="stylecssmid.css">
+</head>
+<body class="contact">
+    <form class="contact_2">
+        <h1 class="contact_1">Contact Us </h1>
+        <p><label>Nama Lengkap: </label> <input type="text" id="nama" name="nama" placeholder="Masukan nama" required></p>
+         <P><label>Email      : </label> <input type="text" id="email" name="email" placeholder="Masukan email" required></P>
+         <P><label>Username   : </label><input type="text" id="username" name="username" placeholder="Masukan ussername" required></P>
+         <P><label>Password   : </label> <input type="text" id="password" name="password" placeholder="Masukan password" required></P>
+         <p><label for="jenis kelamin">Jenis kelamin: </label>
+             <input type="radio" id="laki-laki" name="jenis_kelamin" value="laki-laki">
+             <label for="laki-laki">Laki-laki</label>
+             <input type="radio" id="perempuan" name="jenis_kelamin" value="perempuan">
+             <label for="perempuan">Perempuan</label>
+        <p>
+             <label for="agama">Agama</label>
+             <select name="agama">
+                 <option value="pt">Protestan</option>
+                 <option value="il">Islam</option>
+                 <option value="bd">Budha</option>
+                 <option value="kh">Konghucu</option>
+                 <option value="kt">Katolik</option>
+             </select>
+         </p>
+         <p>
+            <label for="alamat">Alamat</label>
+            <textarea id="alamat" name="alamat" rows="5" cols="30"></textarea>
+        </p>
+        <p>
+             <label for="hobi">Hobi:</label>
+             <input type="checkbox" id="hobi1" name="hobi1" value="hobi1">
+             <label for="belajar">Liburan</label>
+             <input type="checkbox" id="hobi2" name="hobi2" value="hobi2">
+             <label for="olahraga">Menonton</label>
+             <input type="checkbox" id="hobi3" name="hobi3" value="hobi3">
+             <label for="main musik">Merujak</label>
+             <input type="checkbox" id="hobi4" name="hobi4" value="hobi4">
+             <label for="memelihara binatang">Bermain</label>
+         </p>
+         <p>
+             <input type="submit" value="Simpan">
+             <input type="reset" value="Reset">
+         </p>
+    </form>
+</body>
+</html>

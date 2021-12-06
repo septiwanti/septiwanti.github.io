@@ -1,0 +1,78 @@
+.biodata{
+    background-image: url("back-green.jpg");
+}
+.biodata_1{
+    text-align: center;
+    font-family: sans-serif;
+    word-spacing: 5px;
+}
+.biodata_2{
+    font-family: cursive;
+    word-spacing: 5px;
+}
+
+.contact{
+    background-image: url("gray-backgrounds.jpg");
+}
+.contact_1{
+    text-align: center;
+    font-family: sans-serif;
+}
+.contact_2{
+font-family: cursive;
+word-spacing: 5px;
+}
+.index_1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+    position: relative;
+    margin: 0;
+    padding top: 0;
+    padding-bottom: 50px;
+    list-style-type: none;
+    text-align: center;
+}
+li{
+    display: inline;
+}
+a{
+    text-decoration: none;
+    padding: 10px 10px;
+    margin-left: 90px;
+    color: black;
+}
+
+.index_2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
+    position: relative;
+}
+.ab1{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 800px;
+    top: 200px;
+}
+.ab2{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 800px;
+    top: 300px;
+}
+.ab3{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    left: 700px;
+    top: 400px ;
+}
+.ab_a{
+    padding-top: 50px;
+    padding-left: 50px;
+}
+.ab_b{
+    padding-top: 100px;
+    padding-left: 150px;
+}
+.ly{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
